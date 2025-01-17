@@ -1,1 +1,2 @@
 # handwriting_NLP_base_algorithm
+一些为了找工作进行的基础巩固手撕代码。未验证正确性，全凭感觉
